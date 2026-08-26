@@ -1,5 +1,5 @@
 # Computational Text Analysis Projects
-Links to repositories for computational text analysis projects:
+Links to repositories for computational text analysis articles:
 
 Nelson, Burk, Knudson & McCall article (SMR 2018; 2022): 
 
